@@ -12,6 +12,11 @@ Ampu Test 100
 Sam Test 5
 Sam Test 6
 =======
+<<<<<<< HEAD
 
 Updating from Test branch 1
 Updating from Test branch 2
+=======
+Updating in Main branch 1
++++++++++++++++++++++
+>>>>>>> main
